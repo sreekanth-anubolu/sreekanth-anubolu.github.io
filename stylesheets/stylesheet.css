@@ -421,6 +421,6 @@ Small Device Styles
   }
 
 }
-.foo {
-    background-image: url("../images/Red-Background-6.jpg");
+.backgroundimage {
+    background-image: url("http://wallalay.com/wp-content/uploads/2014/06/Red-Background-6.jpg");
 }
