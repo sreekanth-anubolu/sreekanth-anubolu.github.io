@@ -421,3 +421,6 @@ Small Device Styles
   }
 
 }
+.foo {
+    background-image: url("../images/Red-Background-6.jpg");
+}
